@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+
+
+body{
+    font-size: 15px;
+    margin-left: 30em;
+    margin-right: 30em;
+}
+
+.address1 {
+    text-align: left; 
+    line-height: normal;
+   
+}
+
+.address {
+    text-align: right;
+    color: black;
+    font-weight: 700;
+}
+
+.uno {
+    font-family: 'Grape Nuts', cursive;
+   
+}
+
+.dos{
+    font-family: 'Grape Nuts', cursive;
+    font-size: 50px;
+}
+
+.tres{
+    
+}
